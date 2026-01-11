@@ -1,3 +1,13 @@
+"""
+Programa: Cálculo del área de un rectángulo
+Descripción: Este programa solicita al usuario la base y la altura de un rectángulo,
+calcula su área y determina si esta es mayor a un valor establecido. """
+print("UNIVERSIDAD ESTATAL AMAZONICA")
+print("Autor Juan Carlos Pérez León")
+print("Tipos de datos, Identificadores. Implementación ")
+print("Cálculo del área de un rectángulo ")
+print("Curso 2526-UEA-L-UFB-030-A\n")
+
 from modelo.rectangulo import Rectangulo
 from servicio.calculo_area import ServicioCalculoArea
 
