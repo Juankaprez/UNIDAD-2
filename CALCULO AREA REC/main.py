@@ -10,7 +10,7 @@ print("Cálculo del área de un rectángulo ")
 print("Curso 2526-UEA-L-UFB-030-A\n")
 
 from modelo.rectangulo import Rectangulo
-from servicio.calculo_area import ServicioCalcul
+from servicio.calculo_area import ServicioCalculoArea
 
 def main():
     try:
